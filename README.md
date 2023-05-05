@@ -1,7 +1,7 @@
 # Geoguessr_Community_Network
 Includes network data that describes the connections between members of a community of professional Geoguessr players.
 
-Description:
+Description: \n
 The professional Geoguessr player Rainbolt would hold weekly tournaments where teams competed against each other. The selection of teams is assumed to be governed by the social interactions within the community. A network of 'teammate connections' can be made to study the social dynamics within the community and how they evolve. In this context, nodes are participants in these tournaments, and edges exist between nodes if they were on the same team for a given tournament.
 
 Node Metadata:
